@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 /* Place your CSS styles in this file */
 
+<html>
+
+<style type="text/css" media="screen">
 body {background-color: rgb(232, 231, 231);}
 
 h1 {
@@ -80,3 +83,4 @@ h4 {
     color: rgba(0, 0, 0, 0.612);
 
 }
+<html>
